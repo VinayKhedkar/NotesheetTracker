@@ -110,9 +110,3 @@ This starts both the client and server in a production environment.
 -   **Database**: [MongoDB](https://www.mongodb.com/) with [Mongoose](https://mongoosejs.com/)
 
 ---
-
-## Temporary Link
-
-Since the application is in the testing stage, you can access it temporarily at:
-
-**[http://testing-notesheet-tracker.example.com](http://testing-notesheet-tracker.example.com)**
